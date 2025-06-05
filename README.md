@@ -47,7 +47,7 @@ API para gestionar cuentas virtuales y transacciones entre usuarios. Este proyec
 
 ```bash
 git clone <repository-url>
-cd fintech-api
+cd belo-challenge
 ```
 
 2. **Instalar dependencias**
